@@ -9,8 +9,8 @@ body {
 }
 
 h1.topheader {
-  font-size: 5vw;
-  line-height: 70%;
+  font-size: 6vw;
+  line-height: 80%;
 }
 
 h2.topheader {
@@ -24,7 +24,16 @@ h2.topheader {
 }
 
 .footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 10%;
   background-color: #323299;
   color: #FFFFFF;
   font-family: "CustomFont";
+}
+
+p.footer {
+  text-align: center;
+  font-size: 1vw;
 }
