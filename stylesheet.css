@@ -1,6 +1,7 @@
 body {
   background-color: #89CFF0;
   font-family: "CustomFont";
+  height: 100%;
 }
 
 .container {
