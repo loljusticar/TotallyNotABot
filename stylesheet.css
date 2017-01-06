@@ -4,6 +4,6 @@ body {
 }
 
 @font-face{ /* Allowing font to be used */
-  font-family: "Incite";
-  src: url('incite.tff');
+  font-family: "CustomFont";
+  src: url('ChelaOne-Regular.ttf');
 }
