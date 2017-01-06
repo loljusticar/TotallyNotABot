@@ -8,12 +8,14 @@ body {
   color: #FFFFFF;
 }
 
-h1 {
-  font-size: 5vw;
+h1.topheader {
+  font-size: 4.5vw;
+  line-height: 80%;
 }
 
-h2 {
-  font-size: 3vw;
+h2.topheader {
+  font-size: 2.5vw;
+  line-height: 80%;
 }
 
 @font-face{ /* Allowing font to be used */
