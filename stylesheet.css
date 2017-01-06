@@ -3,8 +3,16 @@ body {
   font-family: "CustomFont";
 }
 
+.topheader {
+  text-align: center;
+}
+
 h1.topheader {
-  font-size: 10vw;
+  font-size: 20vw;
+}
+
+h2.topheader {
+  font-size: 15vw;
 }
 
 @font-face{ /* Allowing font to be used */
