@@ -9,13 +9,13 @@ body {
 }
 
 h1.topheader {
-  font-size: 4.5vw;
-  line-height: 80%;
+  font-size: 5vw;
+  line-height: 70%;
 }
 
 h2.topheader {
-  font-size: 2.5vw;
-  line-height: 80%;
+  font-size: 3vw;
+  line-height: 70%;
 }
 
 @font-face{ /* Allowing font to be used */
