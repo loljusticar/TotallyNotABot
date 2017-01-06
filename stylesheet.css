@@ -3,6 +3,10 @@ body {
   font-family: "CustomFont";
 }
 
+.container {
+  min-height: 100%;
+  position: relative;
+}
 .topheader {
   text-align: center;
   color: #FFFFFF;
