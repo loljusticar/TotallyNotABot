@@ -3,6 +3,10 @@ body {
   font-family: "CustomFont";
 }
 
+h1.topheader {
+  font-size: 10vw;
+}
+
 @font-face{ /* Allowing font to be used */
   font-family: "CustomFont";
   src: url('ChelaOne-Regular.ttf');
