@@ -1,3 +1,9 @@
 body {
   background-color: #F0F8FF;
+  font-family: "Incite";
+}
+
+@font-face{ /* Allowing font to be used */
+  font-family: "Incite";
+  src: url('incite.tff');
 }
