@@ -9,11 +9,11 @@ body {
 }
 
 h1 {
-  font-size: 15vw;
+  font-size: 10vw;
 }
 
 h2 {
-  font-size: 8vw;
+  font-size: 6vw;
 }
 
 @font-face{ /* Allowing font to be used */
