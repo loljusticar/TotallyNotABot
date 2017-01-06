@@ -44,3 +44,7 @@ p.footer {
   text-align: center;
   font-size: 1vw;
 }
+
+a.footer {
+  color: #FFFFFF;
+}
