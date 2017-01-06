@@ -22,3 +22,9 @@ h2.topheader {
   font-family: "CustomFont";
   src: url('ChelaOne-Regular.ttf');
 }
+
+.footer {
+  background-color: #323299;
+  color: #FFFFFF;
+  font-family: "CustomFont";
+}
